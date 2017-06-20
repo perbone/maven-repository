@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>io.perbone.udao</groupId>
+  <artifactId>udao-provider-jdbc</artifactId>
+  <versioning>
+    <versions>
+      <version>0.2.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170620011930</lastUpdated>
+  </versioning>
+</metadata>
