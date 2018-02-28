@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>io.perbone.udao</groupId>
+  <artifactId>udao-spi</artifactId>
+  <version>0.17.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20180228.181115</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20180228181115</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.17.0-20180228.181115-1</value>
+        <updated>20180228181115</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.17.0-20180228.181115-1</value>
+        <updated>20180228181115</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>0.17.0-20180228.181115-1</value>
+        <updated>20180228181115</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
